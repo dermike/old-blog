@@ -8,10 +8,10 @@ permalink:        pretty
 title:            2004 to 2006
 tagline:          'Weblog archive'
 description:      'Weblog archive of redvolume.com - weblog of mikael jergefelt'
-url:              https://librarian.codes/old-blog
+url:              https://librarian.dev/old-blog
 baseurl:          '/old-blog/'
 paginate:         20
 
 author:
   name:           'Mikael Jergefelt'
-  url:            https://twitter.com/dermike
+  url:            https://jergefelt.se/@mike
